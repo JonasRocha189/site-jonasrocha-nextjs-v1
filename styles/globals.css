@@ -1,3 +1,44 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+
+* > * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+@font-face {
+  font-family: "Poppins", sans-serif;
+}
+
+.progress_wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.progress_bar {
+  position: absolute;
+  left: 0;
+  width: 0%;
+  height: 10px;
+}
+
+.showButton {
+  position: fixed;
+  background-color: lightgrey;
+  border-radius: 50%;
+  padding: 0.25rem;
+  right: -100px;
+  bottom: 50px;
+  font-size: 35px;
+  color: grey;
+  cursor: pointer;
+  transform: translateX(-150px);
+  animation: slideLeft 1s;
+}
