@@ -4,7 +4,6 @@ export default function Home() {
   return (
     <>
       <Head>
-        <html lang="pt-BR" />
         <title>Jonas Rocha</title>
         <meta
           name="description"
