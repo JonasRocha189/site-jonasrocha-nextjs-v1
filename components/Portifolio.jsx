@@ -5,7 +5,7 @@ export default function Portifolio() {
     <section className="bg-[#021227] px-7 sm:px-14 py-16 max-w-screen-xl mx-auto" id="projects">
     <div className="flex items-center justify-center gap-12 pb-12">
       <div className="h-px flex-1 bg-[#309543] hidden sm:block"></div>
-      <h2 className="text-4xl font-bold text-center">Some Things I’ve Built</h2>
+      <h2 className="text-4xl font-bold text-center">Portifolio</h2>
       <div className="h-px flex-1 bg-[#309543] hidden sm:block"></div>
     </div>
 
@@ -38,10 +38,10 @@ export default function Portifolio() {
             </ul>
           </div>
           <div className="flex gap-4 mt-2 sm:justify-end sm:relative sm:right-[10%] lg:right-1/4">
-            <a href="https://github.com/prakash-naikwadi/paytm-clone" target="_blank" className="w-9 h-9">
+            <a href="https://github.com/prakash-naikwadi/paytm-clone" target="_blank" rel="noreferrer" className="w-9 h-9">
               <ion-icon name="logo-github" className="w-8 h-8 transition-all hover:text-[#309543]"></ion-icon>
             </a>
-            <a href="https://paytm-clone-01.netlify.app/" target="_blank" className="w-9 h-9">
+            <a href="https://paytm-clone-01.netlify.app/" target="_blank" rel="noreferrer" className="w-9 h-9">
               <ion-icon name="desktop-outline" className="w-8 h-8 transition-all hover:text-[#309543]"></ion-icon>
             </a>
           </div>
@@ -67,10 +67,10 @@ export default function Portifolio() {
             </ul>
           </div>
           <div className="flex gap-4 mt-2 justify-start sm:relative sm:left-[10%] lg:left-1/4">
-            <a href="https://github.com/prakash-naikwadi/rode-website-clone" target="_blank" className="w-9 h-9">
+            <a href="https://github.com/prakash-naikwadi/rode-website-clone" target="_blank" rel="noreferrer" className="w-9 h-9">
               <ion-icon name="logo-github" className="w-8 h-8 transition-all hover:text-[#309543]"></ion-icon>
             </a>
-            <a href="https://rode-website-clone.netlify.app/" target="_blank" className="w-9 h-9">
+            <a href="https://rode-website-clone.netlify.app/" target="_blank" rel="noreferrer" className="w-9 h-9">
               <ion-icon name="desktop-outline" className="w-8 h-8 transition-all hover:text-[#309543]"></ion-icon>
             </a>
           </div>
@@ -113,10 +113,10 @@ export default function Portifolio() {
             </ul>
           </div>
           <div className="flex gap-4 mt-2 sm:justify-end sm:relative sm:right-[10%] lg:right-1/4">
-            <a href="https://github.com/prakash-naikwadi/shopify-clone" target="_blank" className="w-9 h-9">
+            <a href="https://github.com/prakash-naikwadi/shopify-clone" target="_blank" rel="noreferrer" className="w-9 h-9">
               <ion-icon name="logo-github" className="w-8 h-8 transition-all hover:text-[#309543]"></ion-icon>
             </a>
-            <a href="https://shopify-website-clone.netlify.app/" target="_blank" className="w-9 h-9">
+            <a href="https://shopify-website-clone.netlify.app/" target="_blank" rel="noreferrer" className="w-9 h-9">
               <ion-icon name="desktop-outline" className="w-8 h-8 transition-all hover:text-[#309543]"></ion-icon>
             </a>
           </div>
@@ -141,10 +141,10 @@ export default function Portifolio() {
             </ul>
           </div>
           <div className="flex gap-4 mt-2 justify-start sm:relative sm:left-[10%] lg:left-1/4">
-            <a href="https://github.com/prakash-naikwadi/omnifood-start-up-html-css-js" target="_blank" className="w-9 h-9">
+            <a href="https://github.com/prakash-naikwadi/omnifood-start-up-html-css-js" target="_blank" rel="noreferrer" className="w-9 h-9">
               <ion-icon name="logo-github" className="w-8 h-8 transition-all hover:text-[#309543]"></ion-icon>
             </a>
-            <a href="https://omnifood-ai-startup.netlify.app/" target="_blank" className="w-9 h-9">
+            <a href="https://omnifood-ai-startup.netlify.app/" target="_blank" rel="noreferrer" className="w-9 h-9">
               <ion-icon name="desktop-outline" className="w-8 h-8 transition-all hover:text-[#309543]"></ion-icon>
             </a>
           </div>
@@ -183,11 +183,11 @@ export default function Portifolio() {
                   HTML5 and CSS3.
                 </p>
                 <div className="flex gap-4 mt-2 justify-start">
-                  <a href="https://github.com/prakash-naikwadi/product-designer-landing-page" target="_blank"
+                  <a href="https://github.com/prakash-naikwadi/product-designer-landing-page" target="_blank" rel="noreferrer"
                     className="w-9 h-9">
                     <ion-icon name="logo-github" className="w-8 h-8 transition-all hover:text-[#309543]"></ion-icon>
                   </a>
-                  <a href="https://product-designer-landing-page-15.netlify.app/" target="_blank" className="w-9 h-9">
+                  <a href="https://product-designer-landing-page-15.netlify.app/" target="_blank" rel="noreferrer" className="w-9 h-9">
                     <ion-icon name="desktop-outline" className="w-8 h-8 transition-all hover:text-[#309543]"></ion-icon>
                   </a>
                 </div>
@@ -208,10 +208,10 @@ export default function Portifolio() {
                   HTML5 and CSS3.
                 </p>
                 <div className="flex gap-4 mt-2 justify-start">
-                  <a href="https://github.com/prakash-naikwadi/dance-home-landing-page" target="_blank" className="w-9 h-9">
+                  <a href="https://github.com/prakash-naikwadi/dance-home-landing-page" target="_blank" rel="noreferrer" className="w-9 h-9">
                     <ion-icon name="logo-github" className="w-8 h-8 transition-all hover:text-[#309543]"></ion-icon>
                   </a>
-                  <a href="https://dance-home-page-014.netlify.app/" target="_blank" className="w-9 h-9">
+                  <a href="https://dance-home-page-014.netlify.app/" target="_blank" rel="noreferrer" className="w-9 h-9">
                     <ion-icon name="desktop-outline" className="w-8 h-8 transition-all hover:text-[#309543]">
                     </ion-icon>
                   </a>
@@ -232,10 +232,10 @@ export default function Portifolio() {
                   HTML5 and CSS3.
                 </p>
                 <div className="flex gap-4 mt-2 justify-start">
-                  <a href="https://github.com/prakash-naikwadi/saas-landing-page" target="_blank" className="w-9 h-9">
+                  <a href="https://github.com/prakash-naikwadi/saas-landing-page" target="_blank" rel="noreferrer" className="w-9 h-9">
                     <ion-icon name="logo-github" className="w-8 h-8 transition-all hover:text-[#309543]"></ion-icon>
                   </a>
-                  <a href="https://saas-landing-page-0013.netlify.app/" target="_blank" className="w-9 h-9">
+                  <a href="https://saas-landing-page-0013.netlify.app/" target="_blank" rel="noreferrer" className="w-9 h-9">
                     <ion-icon name="desktop-outline" className="w-8 h-8 transition-all hover:text-[#309543]"></ion-icon>
                   </a>
                 </div>
@@ -256,10 +256,10 @@ export default function Portifolio() {
                   HTML5 and CSS3.
                 </p>
                 <div className="flex gap-4 mt-2 justify-start">
-                  <a href="https://github.com/prakash-naikwadi/business-landing-page" target="_blank" className="w-9 h-9">
+                  <a href="https://github.com/prakash-naikwadi/business-landing-page" target="_blank" rel="noreferrer" className="w-9 h-9">
                     <ion-icon name="logo-github" className="w-8 h-8 transition-all hover:text-[#309543]"></ion-icon>
                   </a>
-                  <a href="https://business-landing-page-0012.netlify.app/" target="_blank" className="w-9 h-9">
+                  <a href="https://business-landing-page-0012.netlify.app/" target="_blank" rel="noreferrer" className="w-9 h-9">
                     <ion-icon name="desktop-outline" className="w-8 h-8 transition-all hover:text-[#309543]"></ion-icon>
                   </a>
                 </div>
@@ -280,11 +280,11 @@ export default function Portifolio() {
                   HTML5 and CSS3.
                 </p>
                 <div className="flex gap-4 mt-2 justify-start">
-                  <a href="https://github.com/prakash-naikwadi/web-hosting-landing-page" target="_blank"
+                  <a href="https://github.com/prakash-naikwadi/web-hosting-landing-page" target="_blank" rel="noreferrer"
                     className="w-9 h-9">
                     <ion-icon name="logo-github" className="w-8 h-8 transition-all hover:text-[#309543]"></ion-icon>
                   </a>
-                  <a href="https://web-hosting-landing-page-11.netlify.app/" target="_blank" className="w-9 h-9">
+                  <a href="https://web-hosting-landing-page-11.netlify.app/" target="_blank" rel="noreferrer" className="w-9 h-9">
                     <ion-icon name="desktop-outline" className="w-8 h-8 transition-all hover:text-[#309543]"></ion-icon>
                   </a>
                 </div>
@@ -305,11 +305,11 @@ export default function Portifolio() {
                   HTML5 and CSS3.
                 </p>
                 <div className="flex gap-4 mt-2 justify-start">
-                  <a href="https://github.com/prakash-naikwadi/omnifood-start-up-html-css-js" target="_blank"
+                  <a href="https://github.com/prakash-naikwadi/omnifood-start-up-html-css-js" target="_blank" rel="noreferrer"
                     className="w-9 h-9">
                     <ion-icon name="logo-github" className="w-8 h-8 transition-all hover:text-[#309543]"></ion-icon>
                   </a>
-                  <a href="https://developer-landing-page-009.netlify.app/" target="_blank" className="w-9 h-9">
+                  <a href="https://developer-landing-page-009.netlify.app/" target="_blank" rel="noreferrer" className="w-9 h-9">
                     <ion-icon name="desktop-outline" className="w-8 h-8 transition-all hover:text-[#309543]"></ion-icon>
                   </a>
                 </div>
