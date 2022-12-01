@@ -2,13 +2,17 @@
 export default function Footer() {
   return (
     <footer className="bg-gray-800 text-gray-200">
-      <div className="h-96 p-5">
-        <h2>Footer</h2>
-      </div>
+      <section className="h-96">
+        <div className="container mx-auto p-5">
+          <h2>Footer</h2>
+        </div>
+      </section>
 
-      <div className="bg-gray-900 p-5">
-         <span>2022 &copy; Copyright - Todos os direitos reservados </span> 
-      </div>
+      <section className="bg-gray-900 ">
+        <div className="container flex items-center justify-center text-center h-8">
+          <span>2022 &copy; Copyright - Todos os direitos reservados </span> 
+        </div>
+      </section>
     </footer>
   )
 }
