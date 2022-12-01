@@ -26,7 +26,7 @@ export default function Portifolio() {
           </h2>
           <p
             className="bg-[#051830] pl-8 pr-2 py-4 mb-2 rounded shadow-sm sm:relative sm:right-[10%] lg:right-1/4 text-[#ffffff78]">
-            This is an assignment given in "JavaScript Full Stack Web Developer Bootcamp" by iNeuron, built using HTML5,
+            This is an assignment given in - JavaScript Full Stack Web Developer Bootcamp - by iNeuron, built using HTML5,
             CSS3 and Tailwind CSS.
             <span className="text-[#309543] font-medium">This Site is Fully Responsive</span>
           </p>
@@ -55,7 +55,7 @@ export default function Portifolio() {
           <h2 className=" text-3xl font-bold mb-8 sm:relative sm:left-[10%] lg:left-1/4">02. Rode.com Clone</h2>
           <p
             className="bg-[#051830] pl-8 pr-2 py-4 mb-2 rounded shadow-sm sm:relative sm:left-[10%] lg:left-1/4 z-40 text-[#ffffff78]">
-            This is an assignment given in "JavaScript Full Stack Web Developer Bootcamp" by iNeuron, built using HTML5,
+            This is an assignment given in - JavaScript Full Stack Web Developer Bootcamp - by iNeuron, built using HTML5,
             CSS3 and Tailwind CSS.
             <span className="text-[#309543] font-medium">This Site is Fully Responsive</span>
           </p>
@@ -101,7 +101,7 @@ export default function Portifolio() {
           </h2>
           <p
             className="bg-[#051830] pl-8 pr-2 py-4 mb-2 rounded shadow-sm sm:relative sm:right-[10%] lg:right-1/4 text-[#ffffff78]">
-            This is an assignment given in "JavaScript Full Stack Web Developer Bootcamp" by iNeuron, built using HTML5,
+            This is an assignment given in - JavaScript Full Stack Web Developer Bootcamp - by iNeuron, built using HTML5,
             CSS3 and Tailwind CSS.
             <span className="text-[#309543] font-medium">This Site is Fully Responsive</span>
           </p>
@@ -179,7 +179,7 @@ export default function Portifolio() {
                 <h2 className="tracking-widest text-sm title-font font-bold text-indigo-500 mb-1">HTML CSS</h2>
                 <h1 className="title-font text-lg font-medium text-white mb-3">Product Designer Landing Page</h1>
                 <p className="leading-relaxed">
-                  This is a assignment given in "JavaScript Full Stack Web Developer Bootcamp" by iNeuron, built using
+                  This is a assignment given in - JavaScript Full Stack Web Developer Bootcamp - by iNeuron, built using
                   HTML5 and CSS3.
                 </p>
                 <div className="flex gap-4 mt-2 justify-start">
@@ -204,7 +204,7 @@ export default function Portifolio() {
                 <h2 className="tracking-widest text-sm title-font font-bold text-indigo-500 mb-1">HTML CSS</h2>
                 <h1 className="title-font text-lg font-medium text-white mb-3">Dance Home Landing Page</h1>
                 <p className="leading-relaxed">
-                  This is a assignment given in "JavaScript Full Stack Web Developer Bootcamp" by iNeuron, built using
+                  This is a assignment given in - JavaScript Full Stack Web Developer Bootcamp - by iNeuron, built using
                   HTML5 and CSS3.
                 </p>
                 <div className="flex gap-4 mt-2 justify-start">
@@ -228,7 +228,7 @@ export default function Portifolio() {
                 <h2 className="tracking-widest text-sm title-font font-bold text-indigo-500 mb-1">HTML CSS</h2>
                 <h1 className="title-font text-lg font-medium text-white mb-3">Saas Landing Page</h1>
                 <p className="leading-relaxed">
-                  This is a assignment given in "JavaScript Full Stack Web Developer Bootcamp" by iNeuron, built using
+                  This is a assignment given in - JavaScript Full Stack Web Developer Bootcamp - by iNeuron, built using
                   HTML5 and CSS3.
                 </p>
                 <div className="flex gap-4 mt-2 justify-start">
@@ -252,7 +252,7 @@ export default function Portifolio() {
                 <h2 className="tracking-widest text-sm title-font font-bold text-indigo-500 mb-1">HTML CSS</h2>
                 <h1 className="title-font text-lg font-medium text-white mb-3">Business Landing Page</h1>
                 <p className="leading-relaxed">
-                  This is a assignment given in "JavaScript Full Stack Web Developer Bootcamp" by iNeuron, built using
+                  This is a assignment given in - JavaScript Full Stack Web Developer Bootcamp - by iNeuron, built using
                   HTML5 and CSS3.
                 </p>
                 <div className="flex gap-4 mt-2 justify-start">
@@ -276,7 +276,7 @@ export default function Portifolio() {
                 <h2 className="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">HTML CSS</h2>
                 <h1 className="title-font text-lg font-medium text-white mb-3">Web Hosting Landing Page</h1>
                 <p className="leading-relaxed">
-                  This is a assignment given in "JavaScript Full Stack Web Developer Bootcamp" by iNeuron, built using
+                  This is a assignment given in - JavaScript Full Stack Web Developer Bootcamp - by iNeuron, built using
                   HTML5 and CSS3.
                 </p>
                 <div className="flex gap-4 mt-2 justify-start">
@@ -301,7 +301,7 @@ export default function Portifolio() {
                 <h2 className="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">HTML CSS</h2>
                 <h1 className="title-font text-lg font-medium text-white mb-3">Developer Landing Page</h1>
                 <p className="leading-relaxed">
-                  This is a assignment given in "JavaScript Full Stack Web Developer Bootcamp" by iNeuron, built using
+                  This is a assignment given in - JavaScript Full Stack Web Developer Bootcamp - by iNeuron, built using
                   HTML5 and CSS3.
                 </p>
                 <div className="flex gap-4 mt-2 justify-start">
