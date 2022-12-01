@@ -130,7 +130,7 @@ export default function Portifolio() {
           <h2 className=" text-3xl font-bold mb-8 sm:relative sm:left-[10%] lg:left-1/4">04. Omnifood</h2>
           <p
             className="bg-[#051830] pl-8 pr-2 py-4 mb-2 rounded shadow-sm sm:relative sm:left-[10%] lg:left-1/4 z-40 text-[#ffffff78]">
-            A Food Delivery AI Startup's Fully Responsive website, built using HTML5, CSS3, and JavaScript.
+            A Food Delivery AI Startup Fully Responsive website, built using HTML5, CSS3, and JavaScript.
             <span className="text-[#309543] font-medium">This Site is Fully Responsive</span>
           </p>
           <div className="sm:relative sm:left-[10%] lg:left-1/4">
